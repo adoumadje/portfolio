@@ -1,0 +1,267 @@
+{
+    "programming_languages": [
+        {
+            "name": "JAVA",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"
+        },
+        {
+            "name": "Python",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"
+        },
+        {
+            "name": "C language",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png"
+        },
+        {
+            "name": "C++",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"
+        },
+        {
+            "name": "JavaScript",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png"
+        },
+        {
+            "name": "TypeScript",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"
+        }
+    ],
+
+    "backend_techs": [
+        {
+            "name": "JAVA",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"
+        },
+        {
+            "name": "Spring",
+            "logo": "https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png"
+        },
+        {
+            "name": "Spring Boot",
+            "logo": "https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png"
+        },
+        {
+            "name": "Spring MVC",
+            "logo": "https://media.licdn.com/dms/image/D5612AQFOVbPLWKoJxA/article-cover_image-shrink_600_2000/0/1677074070749?e=2147483647&v=beta&t=-5rigmNPbs4uPEPNXx4OxP9dSW4XFjeHcOEtvo8vqmU"
+        },
+        {
+            "name": "Spring Data Jpa",
+            "logo": "https://dimitri.codes/logos/spring-data.png"
+        },
+        {
+            "name": "Hibernate",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png"
+        },
+        {
+            "name": "JDBC",
+            "logo": "https://pbs.twimg.com/media/FkApeNZWAAAdE8l.png"
+        },
+        {
+            "name": "Spring Security",
+            "logo": "https://pbs.twimg.com/profile_images/1235983944463585281/AWCKLiJh_400x400.png"
+        },
+        {
+            "name": "WebSocket",
+            "logo": "https://w7.pngwing.com/pngs/667/16/png-transparent-websocket-hd-logo-thumbnail.png"
+        },
+        {
+            "name": "Lombok",
+            "logo": "https://www.clipartmax.com/png/middle/255-2556400_project-lombok-logo.png"
+        },
+        {
+            "name": "JWT",
+            "logo": "https://seeklogo.com/images/J/json-web-tokens-jwt-io-logo-C003DEC47A-seeklogo.com.png"
+        },
+        {
+            "name": "Oauth2",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Oauth_logo.svg"
+        },
+        {
+            "name": "MySQL Database",
+            "logo": "https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png"
+        },
+        {
+            "name": "Postgres Database",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png"
+        },
+        {
+            "name": "Intellij IDEA",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png"
+        },
+        {
+            "name": "Apache Tomcat Server",
+            "logo": "https://banner2.cleanpng.com/20180613/jaa/kisspng-apache-tomcat-apache-http-server-installation-java-5b21388d78baa1.6464128915289038214945.jpg"
+        },
+        {
+            "name": "Maven Build Tool",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png"
+        }
+    ],
+
+    "frontend_techs": [
+        {
+            "name": "HTML",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"
+        },
+        {
+            "name": "CSS",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/768px-CSS3_logo.svg.png?20210705212817"
+        },
+        {
+            "name": "JavaScript",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png"
+        },
+        {
+            "name": "Angular",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"
+        },
+        {
+            "name": "RxJS",
+            "logo": "https://cdn.worldvectorlogo.com/logos/rxjs-1.svg"
+        },
+        {
+            "name": "TypeScript",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"
+        },
+        {
+            "name": "PrimeNg",
+            "logo": "https://www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png"
+        },
+        {
+            "name": "PrimeFlex",
+            "logo": "https://github.com/primefaces.png"
+        },
+        {
+            "name": "Bootstrap",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"
+        },
+        {
+            "name": "Tailwind Css",
+            "logo": "https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png"
+        },
+        {
+            "name": "JSON",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/240px-JSON_vector_logo.svg.png"
+        },
+        {
+            "name": "XML",
+            "logo": "https://banner2.cleanpng.com/20181205/fu/kisspng-xml-scalable-vector-graphics-image-data-web-feed-jules-thuillier-ampquot-old-remote-app-brains-5c0881bd8bd6c5.2990553315440613735728.jpg"
+        }
+    ],
+
+    "testing_techs": [
+        {
+            "name": "JUnit",
+            "logo": "https://junit.org/junit5/assets/img/junit5-logo.png"
+        },
+        {
+            "name": "Mockito",
+            "logo": "https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png"
+        },
+        {
+            "name": "AssertJ",
+            "logo": "https://velog.velcdn.com/images/100journey/post/0f953ee0-4410-4a87-b53f-fa22c90e5f7e/image.png"
+        },
+        {
+            "name": "Postman",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png"
+        },
+        {
+            "name": "Selenium",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/861px-Selenium_Logo.png"
+        }
+    ],
+
+    "devops_techs": [
+        {
+            "name": "Linux",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"
+        },
+        {
+            "name": "Docker",
+            "logo": "https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png"
+        },
+        {
+            "name": "Docker-Compose",
+            "logo": "https://image.pngaaa.com/22/4852022-middle.png"
+        },
+        {
+            "name": "AWS",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png"
+        },
+        {
+            "name": "ECS",
+            "logo": "https://cdn.icon-icons.com/icons2/2699/PNG/512/amazon_ecs_logo_icon_168661.png"
+        },
+        {
+            "name": "EC2",
+            "logo": "https://logowik.com/content/uploads/images/aws-ec24128.jpg"
+        },
+        {
+            "name": "S3",
+            "logo": "https://cdn.worldvectorlogo.com/logos/amazon-s3-simple-storage-service.svg"
+        },
+        {
+            "name": "VPC",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/AWS_Simple_Icons_Virtual_Private_Cloud.svg/1200px-AWS_Simple_Icons_Virtual_Private_Cloud.svg.png"
+        },
+        {
+            "name": "Github Actions CI/CD",
+            "logo": "https://avatars.githubusercontent.com/u/44036562?s=280&v=4"
+        },
+        {
+            "name": "Git",
+            "logo": "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
+        },
+        {
+            "name": "Github",
+            "logo": "https://cdn-icons-png.flaticon.com/512/25/25231.png"
+        },
+        {
+            "name": "GitLab",
+            "logo": "https://w7.pngwing.com/pngs/881/310/png-transparent-gitlab-original-wordmark-logo-icon-thumbnail.png"
+        },
+        {
+            "name": "BitBucket",
+            "logo": "https://w7.pngwing.com/pngs/404/31/png-transparent-bitbucket-icon-hd-logo-thumbnail.png"
+        }
+    ],
+
+    "network_protocols": [
+        {
+            "name": "TCP/IP",
+            "logo": "https://www.machinemetrics.com/hubfs/tcp-ip-logo-square.png"
+        },
+        {
+            "name": "HTTP",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/768px-HTTP_logo.svg.png"
+        },
+        {
+            "name": "HTTPS",
+            "logo": "https://www.shutterstock.com/image-vector/padlock-https-logo-editable-vector-260nw-2129781260.jpg"
+        },
+        {
+            "name": "WebSocket",
+            "logo": "https://miro.medium.com/v2/resize:fit:1300/1*4BtGcPz3JauG9qsNXzLMXA.gif"
+        },
+        {
+            "name": "DNS",
+            "logo": "https://symbols.getvecta.com/stencil_27/42_dns.092432ba49.svg"
+        },
+        {
+            "name": "DHCP",
+            "logo": "https://d22e4d61ky6061.cloudfront.net/sites/default/files/DHCP_1.png"
+        },
+        {
+            "name": "SSH",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/0/00/Unofficial_SSH_Logo.svg"
+        },
+        {
+            "name": "SSL",
+            "logo": "https://logowik.com/content/uploads/images/ssl-secured7869.jpg"
+        },
+        {
+            "name": "OpenSSL RSA",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a1/OpenSSL_logo.png"
+        }
+    ]
+}

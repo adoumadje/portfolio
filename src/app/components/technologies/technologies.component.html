@@ -1,0 +1,99 @@
+<section 
+    id="technologies"
+    class="mt-8 pt-8"
+    [style]="{
+        marginBottom: '100px'
+    }"
+>
+    <span 
+        class="block w-4rem bg-cyan-500"
+        [style]="{
+            height: '3px'
+        }"
+    ></span>
+    <h3 class="mb-6">Technologies</h3>
+    <h4>Programming Languages</h4>
+    <ul class="list-none flex flex-wrap mb-5">
+        <li 
+            *ngFor="let language of programmingLanguages"
+            class="border-round bg-bluegray-700 flex align-items-center py-1 px-2 shadow-1 mr-5 mb-4"
+        >
+            <img 
+                [src]="language.logo" 
+                class="w-1rem mr-2"
+                [alt]="language.name"
+            >
+            {{language.name}}
+        </li>
+    </ul>
+    <h4>Backend Tech Stack</h4>
+    <ul class="list-none flex flex-wrap mb-5">
+        <li 
+            *ngFor="let tech of backendTechs"
+            class="border-round bg-bluegray-700 flex align-items-center py-1 px-2 shadow-1 mr-5 mb-4"
+        >
+            <img 
+                [src]="tech.logo" 
+                class="w-1rem mr-2"
+                [alt]="tech.name"
+            >
+            {{tech.name}}
+        </li>
+    </ul>
+    <h4>Frontend Tech Stack</h4>
+    <ul class="list-none flex flex-wrap mb-5">
+        <li 
+            *ngFor="let tech of frontendTechs"
+            class="border-round bg-bluegray-700 flex align-items-center py-1 px-2 shadow-1 mr-5 mb-4"
+        >
+            <img 
+                [src]="tech.logo" 
+                class="w-1rem mr-2"
+                [alt]="tech.name"
+            >
+            {{tech.name}}
+        </li>
+    </ul>
+    <h4>Testing Tech Stack</h4>
+    <ul class="list-none flex flex-wrap mb-5">
+        <li 
+            *ngFor="let tech of testingTechs"
+            class="border-round bg-bluegray-700 flex align-items-center py-1 px-2 shadow-1 mr-5 mb-4"
+        >
+            <img 
+                [src]="tech.logo" 
+                class="w-1rem mr-2"
+                [alt]="tech.name"
+            >
+            {{tech.name}}
+        </li>
+    </ul>
+    <h4>Devops Tech Stack</h4>
+    <ul class="list-none flex flex-wrap mb-5">
+        <li 
+            *ngFor="let tech of devopsTechs"
+            class="border-round bg-bluegray-700 flex align-items-center py-1 px-2 shadow-1 mr-5 mb-4"
+        >
+            <img 
+                [src]="tech.logo" 
+                class="w-1rem mr-2"
+                [alt]="tech.name"
+            >
+            {{tech.name}}
+        </li>
+    </ul>
+    <h4>Network and network protocols</h4>
+    <ul class="list-none flex flex-wrap mb-5">
+        <li 
+            *ngFor="let protocol of networkProtocols"
+            class="border-round bg-bluegray-700 flex align-items-center py-1 px-2 shadow-1 mr-5 mb-4"
+        >
+            <img 
+                [src]="protocol.logo" 
+                class="w-1rem mr-2"
+                [alt]="protocol.name"
+            >
+            {{protocol.name}}
+        </li>
+    </ul>
+</section>
